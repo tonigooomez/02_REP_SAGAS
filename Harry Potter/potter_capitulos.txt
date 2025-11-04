@@ -1,8 +1,33 @@
-1	Harry Potter y la piedra filosofal
-2	Harry Potter y la cámara secreta
-3	Harry Potter y el prisionero de Azkaban
-4	
-5	
-6	
-7	
-8	
+El niño que vivió
+
+El vidrio que desapareció
+
+Las cartas de nadie
+
+El guardián de las llaves
+
+El callejón Diagon
+
+El viaje desde la plataforma nueve y tres cuartos
+
+El Sombrero Seleccionador
+
+El maestro de pociones
+
+El duelo de medianoche
+
+Halloween
+
+Quidditch
+
+El espejo de Oesed
+
+Nicolás Flamel
+
+Norberto, el Ridgeback noruego
+
+El bosque prohibido
+
+A través de la trampilla
+
+El hombre con dos caras
